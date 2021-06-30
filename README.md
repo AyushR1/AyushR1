@@ -1,5 +1,8 @@
 <h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  Ayush here!</h1>
+
 <h3 align="center">A sporty🏸🏋️🏏🚵‍♂️ guy who loves programming.</h3>
+<br><img align="right" alt="GIF" src="code.gif" width="400" height="350"/>
+<br>
 Freshman at RGIPT pursuing Computer Science & engineering, working and building skills along the way.
 An Industrious, striving to make a difference, with what I already have whilst learning new skills to mark a footprint in the technological world.
 <br><br>

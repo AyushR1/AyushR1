@@ -3,10 +3,10 @@
 <h3 align="center">A sporty🏸🏋️🏏🚵‍♂️ guy who loves programming.</h3>
 <br><img align="right" alt="GIF" src="code.gif" width="400" height="350"/>
 <br>
-Freshman at RGIPT pursuing Computer Science & engineering, working and building skills along the way.
-An Industrious, striving to make a difference, with what I already have whilst learning new skills to mark a footprint in the technological world.
+Hi there! I am Ayush, a Junior Year Undergraduate in Computer Science & Engineering at Rajiv Gandhi Institute of Petroleum Technology (An INI at par with the IITs).
+I am a Computer Enthusiast with a passion for doing Development and contributing to open source with what I already have while learning new skills to mark a footprint in the technological world.
 <br><br>
-Well versed with C++ & C, currently diving into the world of competitive programming and open source development.
+Well-versed with C++/C, and Python, currently diving into the world of open source development and diversifying myself by grasping and building projects on various frameworks, tools, and concepts like Django, Flutter, Kotlin, Docker, Kubernetes...
 <p align="center"> 
   <br>Visitor count<br>
   <img src="https://profile-counter.glitch.me/ayushr1/count.svg"/>

@@ -1,37 +1,86 @@
-<h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  Ayush here!</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<h3 align="center">A sporty🏸🏋️🏏🚵‍♂️ guy who loves programming.</h3>
-<br><img align="right" alt="GIF" src="code.gif" width="400" height="350"/>
-<br>
-Hi there! I am Ayush, a Junior Year Undergraduate in Computer Science & Engineering at Rajiv Gandhi Institute of Petroleum Technology (An INI at par with the IITs).
-I am a Computer Enthusiast with a passion for doing Development and contributing to open source with what I already have while learning new skills to mark a footprint in the technological world.
-<br><br>
-Well-versed with C++/C, and Python, currently diving into the world of open source development and diversifying myself by grasping and building projects on various frameworks, tools, and concepts like Django, Flutter, Kotlin, Docker, Kubernetes...
-<p align="center"> 
-  <br>Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ayushr1/count.svg"/>
- </p>
-<h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://linkedin.com/in/ayushr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushr1" height="30" width="40" /></a>
-<a href="https://instagram.com/ayushr1_ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushr1_ig" height="30" width="40" /></a>
-<a href="https://fb.com/ayushr12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayushr12" height="30" width="40" /></a>
-<a href="https://twitter.com/ayushr1_tw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushr1_tw" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ayushr1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayushr1" height="30" width="40" /></a>
-</p>
+###
 
-<br/><br/>
+<p align="left">My name is Ayush and I'm a Software Engineer, from India<br><br>📚 Backend Enginer at Zenskar<br>👨‍💻 Ex GSoC at CloudCV</p>
 
-<h1 align="left">Languages and Tools:</h1>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushr1&show_icons=true&locale=en&layout=compact&count_private=true&include_all_commits=true" alt="ayushr1" /></p>
+<p align="left">✨ Final year CSE undergrad at RGIPT (An INI at par with IITs)<br>🎯 Goals: <br>🎲 Fun fact: I am creating bugs since 2014</p>
 
-<br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/>
+###
 
-<h1 align="left"> Stats:</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ayushr1&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="ayushr1" /></p>
+<h2 align="left">Skills</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushr1&" alt="ayushr1" /></p>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
+
+###
+
+<h2 align="left">Connect</h2>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ayushr1/count.svg?"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ayushr1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:ayushr1.cse@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ayushr1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@ayushr1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://twitter.com/ayushr1_tw" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://medium.com/@ayushr1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ayushr1" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ayushr1/ayushr1/output/snake.svg" alt="Snake animation" />
+
+###

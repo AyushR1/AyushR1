@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Final year CSE undergrad at RGIPT (An INI at par with IITs)<br>🎯 Goals: <br>🎲 Fun fact: I am creating bugs since 2014</p>
+<p align="left">✨ Final year CSE undergrad at RGIPT (An INI at par with IITs) <br>🎲 Fun fact: I am creating bugs since 2014</p>
 
 ###
 

@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Ayush and I'm a Software Engineer, from India<br><br>📚 Backend Enginer at Zenskar<br>👨‍💻 Ex GSoC at CloudCV</p>
+<p align="left">My name is Ayush and I'm a Software Engineer, from India<br><br>📚 Ex Backend Engineer at Zenskar<br>👨‍💻 Ex GSoC at CloudCV</p>
 
 ###
 
-<p align="left">✨ Final year CSE undergrad at RGIPT (An INI at par with IITs) <br>🎲 Fun fact: I am creating bugs since 2014</p>
+<p align="left">✨ Final year CSE undergrad at RGIPT (An INI at par with IITs) <br>🎲 Fun fact: I have been creating bugs since 2014</p>
 
 ###
 

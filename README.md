@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ayush and I'm a Software Engineer, from India<br><br>📚 Ex Backend Engineer at Zenskar<br>👨‍💻 Ex GSoC at CloudCV</p>
+<p align="left">Ayush, a Software Engineer, from India<br><br>📚 Ex Backend Engineer at Zenskar<br>👨‍💻 Ex GSoC at CloudCV</p>
 
 ###
 

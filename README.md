@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Final year CSE undergrad at RGIPT (An INI at par with IITs) <br>🎲 Fun fact: I have been creating bugs since 2014</p>
+<p align="left">✨ Computer Science Graduate <br>🎲 Fun fact: I have been creating bugs since 2014</p>
 
 ###
 

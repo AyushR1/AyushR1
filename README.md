@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Ayush, a Software Engineer, from India<br><br>📚 Ex Backend Engineer at Zenskar<br>👨‍💻 Ex GSoC at CloudCV</p>
+<p align="left">Ayush, a remote software engineer, from India<br><br>👨‍💻 Ex Contributor at Google SoC <br>📚 Ex Founding Backend Engineer at Zenskar</p>
 
 ###
 
@@ -10,44 +10,13 @@
 
 ###
 
-<h2 align="left">Skills</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/862/624/png-transparent-aws-vector-brand-logos-icon-thumbnail.png" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
-
 <h2 align="left">Connect</h2>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ayushr1/count.svg?"  />
+<div align="left" style="display: inline-flex; align-items: center;">
+  <h> Visitor count 👀: </h>
+  <img src="https://profile-counter.glitch.me/ayushr1/count.svg?" alt="Visitor Count" />
 </div>
 
 ###
@@ -59,7 +28,7 @@
   <a href="mailto:ayushr1.cse@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/ayushr1/" target="_blank">
+  <a href="https://www.instagram.com/ayushr1_ig/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.youtube.com/@ayushr1" target="_blank">

@@ -15,7 +15,7 @@
 ###
 
 <div align="left" style="display: inline-flex; align-items: center;">
-  <h3> Visitor count 👀: </h3>
+  <h> Visitor count 👀: </h>
   <img src="https://profile-counter.glitch.me/ayushr1/count.svg?" alt="Visitor Count" />
 </div>
 

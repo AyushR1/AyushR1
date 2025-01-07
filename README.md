@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Ayush, a remote software engineer, from India<br><br>👨‍💻 Ex Contributor at Google SoC <br>📚 Ex Founding Backend Engineer at Zenskar</p>
+<p align="left">Ayush, a remote software engineer, from India<br><br>👨‍💻 Ex Contributor at Google SoC <br>📚 Ex Founding Backend Engineer at Limited, Zenskar</p>
 
 ###
 

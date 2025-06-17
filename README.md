@@ -1,12 +1,16 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey Hi 👋?</h1>
 
 ###
 
-<p align="left">It's Ayush, a Generalist remote software engineer, from India!<br><br>👨‍💻 Ex Contributor at Google SoC <br>📚 Ex Founding Engineer at Limited, Zenskar</p>
+<p align="left">It's Ayush, remote software engineer from India!<br><br>👨‍💻 Ex Contributor at Google SoC <br>📚 Ex Founding Engineer at 4+ startups</p>
 
 ###
 
 <p align="left">✨ Computer Science Graduate <br>🎲 Fun fact: I have been creating bugs since 2014</p>
+
+###
+
+<p align="left">🧑 Apart from being a nerd, I keep my sanity with music🎸, sports🏸, and powerlifting💪 </p>
 
 ###
 

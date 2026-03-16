@@ -1,4 +1,4 @@
-<h1 align="left">Hey Hi 👋?</h1>
+<h1 align="left">Hey Hi! 👋</h1>
 
 ###
 
@@ -18,17 +18,10 @@
 
 ###
 
-<div align="left" style="display: inline-flex; align-items: center;">
-  <h> Visitor count 👀: </h>
-  <img src="https://profile-counter.glitch.me/ayushr1/count.svg?" alt="Visitor Count" />
-</div>
-
-###
-
 <div align="left">
-  <a href="https://www.linkedin.com/in/ayushr1/" target="_blank">
+  <!-- <a href="https://www.linkedin.com/in/ayushr1/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+  </a> -->
   <a href="mailto:ayushr1.cse@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
